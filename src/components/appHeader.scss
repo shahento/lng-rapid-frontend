@@ -1,0 +1,26 @@
+.header-nav .show > .nav-link, .header-nav .nav-link.active {
+    color: white;
+    background-color: #2281E0;
+    border-radius: 8px;
+    font-family: TTNorms-Bold;
+    font-size: 16px;
+    padding: 9px 15px;
+}
+
+.header-nav .nav-link {
+    font-family: TTNorms-Bold;
+    font-size: 16px;
+    line-height: 19px;
+    color: #22304D;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.header.header-sticky {
+    box-shadow: 0px 1px 8px 1px rgb(20 20 20 / 40%);
+}
+.signout-btn{
+    font-family: TTNorms-Bold;
+    font-size: 16px;
+    line-height: 19px;
+    color: #22304D; 
+}

@@ -1,0 +1,40 @@
+.brand_back{
+    background-color: white;
+    box-shadow: -9px 1px 8px 1px rgb(20 20 20 / 40%);
+    z-index: 5;
+}
+.sidebar-nav{
+    background: white;
+    box-shadow: 0px 1px 8px 1px rgb(20 20 20 / 40%);
+}
+.logoSize{
+    width: fit-content!important;
+}
+.sidebar-nav .nav-link {
+    color: #2281E0;
+}
+
+.sidebar-nav .nav-link:hover{
+    color: #2281E0;
+}
+.sidebar-nav .nav-link.active{
+    color:#22e1EE;
+}
+.sidebar-nav .nav-icon{
+    color:#2281E0;
+}
+.sidebar-nav .nav-icon:hover{
+    color:#2281E0;
+}
+.sidebar-nav .nav-link.active .nav-icon{
+    color:#22e1EE;
+}
+.sidebar-nav .nav-link:hover .nav-icon{
+    color:#22e1EE;
+}
+.sidebar-nav .nav-title{
+    color: #2281E0;
+}
+.sidebar-nav .nav-group.show .nav-group-toggle {
+    color: #2281E0;
+}
